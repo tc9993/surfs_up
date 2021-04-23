@@ -21,7 +21,7 @@
   <b>Figure 1.2:</b> December Summary Statistics
 </p>
 <ul>
-<li></li>
+<li>The difference in average temperature between June and December is only 4 degrees different (75 vs. 71 respectively).  This means there is minimal fluctuation throughout the year in temperature.  Additionally, with the average temperature seemingly in the low to mid 70s year-round ice cream is not out of the question as a treat on an average day in December.</li>
 <li></li>
 <li></li>
 </ul>

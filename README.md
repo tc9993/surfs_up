@@ -13,11 +13,11 @@
 
 <h3>3 Key Differences</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/78180065/115879182-ff9e6480-a40e-11eb-90e0-a1e439bc1a54.png" alt="June Summary" height=85% width=85%><br>
+<img src="https://user-images.githubusercontent.com/78180065/115879182-ff9e6480-a40e-11eb-90e0-a1e439bc1a54.png" alt="June Summary" height=66% width=66%><br>
   <b>Figure 1.1:</b> June Summary Statistics
 </p>
 <p align="center">
-<img src="https://github.com/tc9993/surfs_up/blob/main/Resources/december_summary.png?raw=true" alt="December Summary" height=85% width=85%><br>
+<img src="https://github.com/tc9993/surfs_up/blob/main/Resources/december_summary.png?raw=true" alt="December Summary" height=66% width=66%><br>
   <b>Figure 1.2:</b> December Summary Statistics
 </p>
 <ul>
